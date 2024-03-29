@@ -13,4 +13,4 @@ money_remain = money_remain % 100
 
 money_50 = money_remain // 50
 
-print(f"1000: {money_1000}\n500: {money_500}\n100: {money_100}"\n50: {money_50}")
+print(f"1000: {money_1000}\n500: {money_500}\n100: {money_100}:\n50: {money_50}")
